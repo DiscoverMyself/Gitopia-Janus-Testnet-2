@@ -18,4 +18,4 @@ jobs:
         with:
           gitopiaWallet: "${{ secrets.GITOPIA_WALLET }}"
           remoteUrl: "gitopia://mee/Gitopia-Janus-Testnet-2"
-          force: true
+          force: false
