@@ -2,7 +2,7 @@
 this is tutorial for running node &amp; validator to participate Gitopia Janus Testnet 2
 
 <p align="center">
-  <img height="100" height="auto" src="https://user-images.githubusercontent.com/38981255/201691739-df61f26e-5c05-46b5-8ce6-0981a6615d60.PNG">
+  <img height="250" height="auto" src="https://user-images.githubusercontent.com/38981255/201691739-df61f26e-5c05-46b5-8ce6-0981a6615d60.PNG">
 </p>
 
 #  penyiapan node gitopia untuk testnet — gitopia-janus-testnet-2
